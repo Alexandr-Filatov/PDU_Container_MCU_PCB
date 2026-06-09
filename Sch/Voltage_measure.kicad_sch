@@ -2963,7 +2963,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
 			(at 69.342 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -3030,6 +3030,17 @@
 			)
 		)
 		(property "Product Name" ""
+			(at 71.12 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Function" ""
 			(at 71.12 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -4707,7 +4718,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
 			(at 69.342 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -4784,6 +4795,17 @@
 				)
 			)
 		)
+		(property "Function" ""
+			(at 71.12 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c664acbb-0e5d-42ed-8ad4-13fd63f1f1bc")
 		)
@@ -4828,7 +4850,7 @@
 				)
 			)
 		)
-		(property "Value" "16k"
+		(property "Value" "8k"
 			(at 109.22 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5806,7 +5828,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
 			(at 69.342 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -5883,6 +5905,17 @@
 				)
 			)
 		)
+		(property "Function" ""
+			(at 71.12 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "abf20c34-7346-4bfc-99ce-6676cfc49fe7")
 		)
@@ -5918,25 +5951,23 @@
 		(dnp no)
 		(uuid "9f0f85cb-9149-4634-ae00-e9f28f9e8f8b")
 		(property "Reference" "R5"
-			(at 99.568 89.916 90)
+			(at 99.568 88.9 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "16k"
-			(at 101.6 89.662 90)
+		(property "Value" "8k"
+			(at 101.6 88.9 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
@@ -6714,6 +6745,7 @@
 		)
 		(property "Value" "OPA333xxDBV"
 			(at 193.04 101.346 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6756,6 +6788,50 @@
 				)
 			)
 		)
+		(property "Product Name" ""
+			(at 190.5 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" ""
+			(at 190.5 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Replacement" ""
+			(at 190.5 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Function" ""
+			(at 190.5 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a953650f-832a-4a16-9708-b1949bbcdd26")
 		)
@@ -6783,6 +6859,91 @@
 				)
 				(path "/7b040528-7065-4d6b-8722-075d9f593d01/a8507d04-f082-4072-a7b5-a924f1d0a9fd"
 					(reference "U32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+1V0")
+		(at 101.6 85.09 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c4fe1e12-011d-41d3-a2f6-462eacbcc9d3")
+		(property "Reference" "#PWR0232"
+			(at 101.6 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+1V0"
+			(at 101.6 81.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 101.6 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 101.6 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+1V0\""
+			(at 101.6 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "654c3486-609e-4e53-befe-deb7f9af9e93")
+		)
+		(instances
+			(project "PDU_Container_MCU_PCB"
+				(path "/7b040528-7065-4d6b-8722-075d9f593d01/3921ac16-82e1-4ab7-a80c-f6d04f7998f3"
+					(reference "#PWR0232")
+					(unit 1)
+				)
+				(path "/7b040528-7065-4d6b-8722-075d9f593d01/93ce951f-aa44-4957-b9af-2a48ec1cc942"
+					(reference "#PWR0234")
+					(unit 1)
+				)
+				(path "/7b040528-7065-4d6b-8722-075d9f593d01/a8507d04-f082-4072-a7b5-a924f1d0a9fd"
+					(reference "#PWR0233")
 					(unit 1)
 				)
 			)
@@ -6869,91 +7030,6 @@
 				)
 				(path "/7b040528-7065-4d6b-8722-075d9f593d01/a8507d04-f082-4072-a7b5-a924f1d0a9fd"
 					(reference "#PWR078")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+1V0")
-		(at 101.6 85.09 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "cc2d8526-03fe-4df9-9a7e-4e21be912ba5")
-		(property "Reference" "#PWR09"
-			(at 101.6 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+1V0"
-			(at 101.346 81.534 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 101.6 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 101.6 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+1V0\""
-			(at 101.6 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b7c53a8c-8a99-4a69-a02e-f651f7700e2a")
-		)
-		(instances
-			(project "PDU_Container_MCU_PCB"
-				(path "/7b040528-7065-4d6b-8722-075d9f593d01/3921ac16-82e1-4ab7-a80c-f6d04f7998f3"
-					(reference "#PWR09")
-					(unit 1)
-				)
-				(path "/7b040528-7065-4d6b-8722-075d9f593d01/93ce951f-aa44-4957-b9af-2a48ec1cc942"
-					(reference "#PWR0108")
-					(unit 1)
-				)
-				(path "/7b040528-7065-4d6b-8722-075d9f593d01/a8507d04-f082-4072-a7b5-a924f1d0a9fd"
-					(reference "#PWR076")
 					(unit 1)
 				)
 			)
