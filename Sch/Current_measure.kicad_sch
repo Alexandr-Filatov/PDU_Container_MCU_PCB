@@ -3271,7 +3271,7 @@
 		(uuid "afd811d0-857c-4e6f-92c0-e39f124776b6")
 	)
 	(no_connect
-		(at 96.52 95.25)
+		(at 88.9 100.33)
 		(uuid "ebb67e2b-f331-4212-be82-a68c8354eafc")
 	)
 	(wire
@@ -3406,6 +3406,16 @@
 	)
 	(wire
 		(pts
+			(xy 101.6 95.25) (xy 109.22 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2dc02b08-6dd5-4996-8f6c-818b9122e74b")
+	)
+	(wire
+		(pts
 			(xy 190.5 72.39) (xy 190.5 74.93)
 		)
 		(stroke
@@ -3413,16 +3423,6 @@
 			(type default)
 		)
 		(uuid "2def305e-7982-40d2-97ec-74003508e20a")
-	)
-	(wire
-		(pts
-			(xy 96.52 107.95) (xy 93.98 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e41df90-9694-4898-ab89-71a67f215775")
 	)
 	(wire
 		(pts
@@ -3676,16 +3676,6 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 107.95) (xy 101.6 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "89164997-7060-4515-9296-a1a30e931789")
-	)
-	(wire
-		(pts
 			(xy 130.81 156.21) (xy 130.81 157.48)
 		)
 		(stroke
@@ -3826,16 +3816,6 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 95.25) (xy 109.22 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "baea539f-1b8c-4124-8615-9e3554c069f9")
-	)
-	(wire
-		(pts
 			(xy 176.53 160.02) (xy 186.69 160.02)
 		)
 		(stroke
@@ -3873,6 +3853,16 @@
 			(type default)
 		)
 		(uuid "c0a35966-cd57-4ffa-96cc-60d7ba2543d5")
+	)
+	(wire
+		(pts
+			(xy 101.6 95.25) (xy 101.6 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2fa1461-63ba-4432-9ad2-31a37a8d6de8")
 	)
 	(wire
 		(pts
@@ -4065,7 +4055,7 @@
 		(uuid "2ceac6cb-0685-4356-bc74-133ef9894c49")
 	)
 	(label "+15V"
-		(at 101.6 107.95 0)
+		(at 101.6 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4095,7 +4085,7 @@
 		(uuid "c31d7621-cbb9-4e40-90ec-84ad99d91f93")
 	)
 	(label "-15V"
-		(at 93.98 107.95 180)
+		(at 88.9 102.87 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4104,29 +4094,16 @@
 		)
 		(uuid "d660c4b7-0870-4175-8674-895890cd8e0f")
 	)
-	(global_label "Current_SENSE"
+	(hierarchical_label "Current_measure"
 		(shape output)
 		(at 194.31 62.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "cc6cd1d3-56cb-4cfe-9256-7f1a564b379b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 211.265 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
+		(uuid "b6858fbf-cb4e-4513-bdb8-5ed4c10fbd23")
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -7012,7 +6989,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x02_Odd_Even")
-		(at 96.52 102.87 90)
+		(at 96.52 102.87 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7022,7 +6999,7 @@
 		(dnp no)
 		(uuid "ba46e833-7aff-423b-9423-3768623bd7ff")
 		(property "Reference" "J16"
-			(at 102.362 101.346 90)
+			(at 94.996 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7032,7 +7009,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 92.71 101.6 0)
+			(at 95.25 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7109,7 +7086,7 @@
 			)
 		)
 		(property "Function" "Current Sensor"
-			(at 87.63 101.6 90)
+			(at 95.758 105.918 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
