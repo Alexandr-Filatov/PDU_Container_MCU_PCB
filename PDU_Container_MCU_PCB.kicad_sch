@@ -13512,7 +13512,7 @@
 				)
 			)
 		)
-		(property "Product Name" "DS1073-01-2x2MR3T6"
+		(property "Product Name" "DS1073-01-2x2-MVT6"
 			(at 44.45 294.64 0)
 			(hide yes)
 			(show_name no)
@@ -27215,6 +27215,17 @@
 			)
 		)
 		(property "Product Name" "DS1073-01-2x2-MVT6"
+			(at 434.34 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Function" ""
 			(at 434.34 86.36 0)
 			(hide yes)
 			(show_name no)
