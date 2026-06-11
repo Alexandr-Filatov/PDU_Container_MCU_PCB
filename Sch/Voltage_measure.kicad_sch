@@ -3007,18 +3007,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 71.12 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 71.12 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -3149,18 +3138,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 161.29 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 161.29 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -3227,7 +3205,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TO-3216BC-MYF"
+		(property "Value" ""
 			(at 73.66 93.9165 90)
 			(hide yes)
 			(show_name no)
@@ -3274,6 +3252,28 @@
 		)
 		(property "Sim.Pin" "1=K 2=A"
 			(at 71.12 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Yellow LED"
+			(at 71.12 92.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "TO-3216BC-MYF"
+			(at 71.12 92.71 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3553,18 +3553,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 194.31 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 50V"
 			(at 194.31 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -3687,18 +3676,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 213.36 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 50V"
 			(at 213.36 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -3820,18 +3798,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 167.64 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 167.64 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -3953,18 +3920,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 152.4 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 50V"
 			(at 152.4 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -4086,18 +4042,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 121.92 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 50V"
 			(at 121.92 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -4164,7 +4109,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "S1M"
+		(property "Value" ""
 			(at 73.66 99.06 90)
 			(hide yes)
 			(show_name no)
@@ -4222,6 +4167,28 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 71.12 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Diode"
+			(at 71.12 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "S1M"
+			(at 71.12 97.79 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4330,18 +4297,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 207.01 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 207.01 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -4546,18 +4502,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 97.79 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 97.79 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -4762,18 +4707,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 71.12 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 71.12 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -4904,18 +4838,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 109.22 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 109.22 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -5035,18 +4958,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 109.22 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 109.22 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -5253,18 +5165,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 180.34 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 50V"
 			(at 180.34 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -5384,18 +5285,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 161.29 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 161.29 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -5510,17 +5400,6 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 213.36 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Purpose" ""
 			(at 213.36 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -5741,18 +5620,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 167.64 85.725 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 167.64 85.725 0)
 			(hide yes)
 			(show_name no)
@@ -5872,18 +5740,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 71.12 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 71.12 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -6014,18 +5871,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 101.6 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 101.6 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -6147,18 +5993,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 146.05 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 50V"
 			(at 146.05 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -6450,18 +6285,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 128.27 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 50V"
 			(at 128.27 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -6581,18 +6405,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 105.41 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 105.41 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -6743,7 +6556,7 @@
 				)
 			)
 		)
-		(property "Value" "OPA333xxDBV"
+		(property "Value" ""
 			(at 193.04 101.346 0)
 			(hide yes)
 			(show_name no)
@@ -6788,7 +6601,7 @@
 				)
 			)
 		)
-		(property "Product Name" ""
+		(property "Product Name" "OPA333xxDBV"
 			(at 190.5 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -6799,7 +6612,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Op-Amp"
 			(at 190.5 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -7197,18 +7010,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 121.285 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 50V"
 			(at 121.285 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -7322,16 +7124,6 @@
 		(property "Replacement" ""
 			(at 86.36 90.17 0)
 			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Purpose" "GNDPWR"
-			(at 86.36 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7548,18 +7340,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 180.34 85.725 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 50V"
 			(at 180.34 85.725 0)
 			(hide yes)
 			(show_name no)
@@ -7765,18 +7546,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 115.57 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 115.57 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -7983,16 +7753,6 @@
 				)
 			)
 		)
-		(property "Purpose" "VDC+"
-			(at 86.36 81.28 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Description P/N" "Connector"
 			(at 86.36 78.74 0)
 			(hide yes)
@@ -8104,17 +7864,6 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 137.16 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Purpose" ""
 			(at 137.16 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -8432,18 +8181,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 109.22 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 109.22 81.28 0)
 			(hide yes)
 			(show_name no)

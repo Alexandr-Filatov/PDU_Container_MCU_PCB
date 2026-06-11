@@ -3216,17 +3216,6 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 161.925 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Description P/N" "Fast recovery diode"
 			(at 161.925 78.74 0)
 			(hide yes)
@@ -3297,7 +3286,7 @@
 				)
 			)
 		)
-		(property "Value" "PC817"
+		(property "Value" ""
 			(at 140.97 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3333,6 +3322,28 @@
 			)
 		)
 		(property "Description" "DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"
+			(at 140.97 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Optocoupler"
+			(at 140.97 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "PC817"
 			(at 140.97 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -3451,18 +3462,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 130.81 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 130.81 127 0)
 			(hide yes)
 			(show_name no)
@@ -3668,17 +3668,6 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 186.055 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Purpose" ""
 			(at 186.055 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3994,17 +3983,6 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 162.56 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Description P/N" "Self-Protected Low Side Driver with Temperature and Current Limit, SOT−223"
 			(at 162.56 91.44 0)
 			(hide yes)
@@ -4128,17 +4106,6 @@
 		)
 		(property "Replacement" ""
 			(at 121.92 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Purpose" "Relay_1"
-			(at 121.92 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4309,7 +4276,7 @@
 				)
 			)
 		)
-		(property "Value" "PC817"
+		(property "Value" ""
 			(at 140.97 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4345,6 +4312,28 @@
 			)
 		)
 		(property "Description" "DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"
+			(at 140.97 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Optocoupler"
+			(at 140.97 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "PC817"
 			(at 140.97 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -4465,18 +4454,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 151.13 134.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 151.13 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -4872,17 +4850,6 @@
 				)
 			)
 		)
-		(property "Purpose" "Precharge"
-			(at 191.135 72.898 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Description P/N" "Connector"
 			(at 191.135 78.74 0)
 			(hide yes)
@@ -5001,17 +4968,6 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 157.48 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Purpose" ""
 			(at 157.48 127 0)
 			(hide yes)
 			(show_name no)
@@ -5151,18 +5107,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 127 134.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 127 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -5288,18 +5233,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 149.86 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 149.86 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -5425,18 +5359,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 157.48 134.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 50V"
 			(at 157.48 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -5553,17 +5476,6 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 127 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Purpose" ""
 			(at 127 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -6057,18 +5969,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 130.81 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 130.81 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -6194,18 +6095,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 186.055 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 186.055 87.63 0)
 			(hide yes)
 			(show_name no)

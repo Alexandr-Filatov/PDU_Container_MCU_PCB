@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "d4a2003b-7e8a-4ebd-808b-7485e982683d")
-	(paper "A4")
+	(paper "A3")
 	(lib_symbols
 		(symbol "Arrow_1"
 			(pin_numbers
@@ -8448,14 +8448,14 @@
 		)
 	)
 	(junction
-		(at 105.41 78.74)
+		(at 196.85 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e937a285-2340-4378-9022-75fdaab66a66")
 	)
 	(wire
 		(pts
-			(xy 128.27 144.78) (xy 139.7 144.78)
+			(xy 219.71 154.94) (xy 231.14 154.94)
 		)
 		(stroke
 			(width 0)
@@ -8465,7 +8465,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 154.94) (xy 162.56 154.94)
+			(xy 246.38 165.1) (xy 254 165.1)
 		)
 		(stroke
 			(width 0)
@@ -8475,7 +8475,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 95.25) (xy 182.88 95.25)
+			(xy 271.78 105.41) (xy 274.32 105.41)
 		)
 		(stroke
 			(width 0)
@@ -8485,7 +8485,7 @@
 	)
 	(polyline
 		(pts
-			(xy 54.61 151.13) (xy 54.61 176.53)
+			(xy 146.05 161.29) (xy 146.05 186.69)
 		)
 		(stroke
 			(width 0)
@@ -8495,7 +8495,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 101.6) (xy 90.17 130.81)
+			(xy 181.61 111.76) (xy 181.61 140.97)
 		)
 		(stroke
 			(width 0)
@@ -8505,7 +8505,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 81.28) (xy 179.07 81.28)
+			(xy 274.32 91.44) (xy 270.51 91.44)
 		)
 		(stroke
 			(width 0)
@@ -8515,7 +8515,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 57.15) (xy 105.41 78.74)
+			(xy 196.85 67.31) (xy 196.85 88.9)
 		)
 		(stroke
 			(width 0)
@@ -8525,7 +8525,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 128.27) (xy 193.04 128.27)
+			(xy 279.4 138.43) (xy 284.48 138.43)
 		)
 		(stroke
 			(width 0)
@@ -8535,7 +8535,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 162.56) (xy 147.32 154.94)
+			(xy 238.76 172.72) (xy 238.76 165.1)
 		)
 		(stroke
 			(width 0)
@@ -8545,7 +8545,7 @@
 	)
 	(polyline
 		(pts
-			(xy 151.13 176.53) (xy 54.61 176.53)
+			(xy 242.57 186.69) (xy 146.05 186.69)
 		)
 		(stroke
 			(width 0)
@@ -8555,7 +8555,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 140.97) (xy 109.22 140.97)
+			(xy 195.58 151.13) (xy 200.66 151.13)
 		)
 		(stroke
 			(width 0)
@@ -8565,7 +8565,7 @@
 	)
 	(polyline
 		(pts
-			(xy 21.59 125.73) (xy 21.59 90.17)
+			(xy 113.03 135.89) (xy 113.03 100.33)
 		)
 		(stroke
 			(width 0)
@@ -8575,7 +8575,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 160.02) (xy 149.86 154.94)
+			(xy 241.3 170.18) (xy 241.3 165.1)
 		)
 		(stroke
 			(width 0)
@@ -8585,7 +8585,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 76.2) (xy 182.88 76.2)
+			(xy 271.78 86.36) (xy 274.32 86.36)
 		)
 		(stroke
 			(width 0)
@@ -8595,7 +8595,7 @@
 	)
 	(polyline
 		(pts
-			(xy 21.59 90.17) (xy 54.61 90.17)
+			(xy 113.03 100.33) (xy 146.05 100.33)
 		)
 		(stroke
 			(width 0)
@@ -8605,7 +8605,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 146.05) (xy 81.28 146.05)
+			(xy 157.48 156.21) (xy 172.72 156.21)
 		)
 		(stroke
 			(width 0)
@@ -8615,7 +8615,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 121.92) (xy 95.25 130.81)
+			(xy 186.69 132.08) (xy 186.69 140.97)
 		)
 		(stroke
 			(width 0)
@@ -8625,7 +8625,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 76.2) (xy 162.56 76.2)
+			(xy 256.54 86.36) (xy 254 86.36)
 		)
 		(stroke
 			(width 0)
@@ -8635,7 +8635,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 160.02) (xy 149.86 160.02)
+			(xy 254 170.18) (xy 241.3 170.18)
 		)
 		(stroke
 			(width 0)
@@ -8645,7 +8645,7 @@
 	)
 	(polyline
 		(pts
-			(xy 151.13 151.13) (xy 151.13 176.53)
+			(xy 242.57 161.29) (xy 242.57 186.69)
 		)
 		(stroke
 			(width 0)
@@ -8655,7 +8655,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 121.92) (xy 95.25 121.92)
+			(xy 193.04 132.08) (xy 186.69 132.08)
 		)
 		(stroke
 			(width 0)
@@ -8665,7 +8665,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 123.19) (xy 193.04 123.19)
+			(xy 283.21 133.35) (xy 284.48 133.35)
 		)
 		(stroke
 			(width 0)
@@ -8675,7 +8675,7 @@
 	)
 	(polyline
 		(pts
-			(xy 151.13 109.22) (xy 151.13 113.03)
+			(xy 242.57 119.38) (xy 242.57 123.19)
 		)
 		(stroke
 			(width 0)
@@ -8685,7 +8685,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 144.78) (xy 113.03 144.78)
+			(xy 195.58 154.94) (xy 204.47 154.94)
 		)
 		(stroke
 			(width 0)
@@ -8695,7 +8695,7 @@
 	)
 	(polyline
 		(pts
-			(xy 151.13 87.63) (xy 151.13 91.44)
+			(xy 242.57 97.79) (xy 242.57 101.6)
 		)
 		(stroke
 			(width 0)
@@ -8705,7 +8705,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 101.6) (xy 127 101.6)
+			(xy 231.14 111.76) (xy 218.44 111.76)
 		)
 		(stroke
 			(width 0)
@@ -8715,7 +8715,7 @@
 	)
 	(polyline
 		(pts
-			(xy 54.61 134.62) (xy 54.61 125.73)
+			(xy 146.05 144.78) (xy 146.05 135.89)
 		)
 		(stroke
 			(width 0)
@@ -8725,7 +8725,7 @@
 	)
 	(polyline
 		(pts
-			(xy 151.13 67.31) (xy 151.13 69.85)
+			(xy 242.57 77.47) (xy 242.57 80.01)
 		)
 		(stroke
 			(width 0)
@@ -8735,7 +8735,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 57.15) (xy 105.41 57.15)
+			(xy 231.14 67.31) (xy 196.85 67.31)
 		)
 		(stroke
 			(width 0)
@@ -8745,7 +8745,7 @@
 	)
 	(polyline
 		(pts
-			(xy 135.89 67.31) (xy 151.13 67.31)
+			(xy 227.33 77.47) (xy 242.57 77.47)
 		)
 		(stroke
 			(width 0)
@@ -8755,7 +8755,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 140.97) (xy 139.7 140.97)
+			(xy 223.52 151.13) (xy 231.14 151.13)
 		)
 		(stroke
 			(width 0)
@@ -8765,7 +8765,7 @@
 	)
 	(polyline
 		(pts
-			(xy 151.13 130.81) (xy 151.13 134.62)
+			(xy 242.57 140.97) (xy 242.57 144.78)
 		)
 		(stroke
 			(width 0)
@@ -8775,7 +8775,7 @@
 	)
 	(polyline
 		(pts
-			(xy 135.89 90.17) (xy 135.89 67.31)
+			(xy 227.33 100.33) (xy 227.33 77.47)
 		)
 		(stroke
 			(width 0)
@@ -8785,7 +8785,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 157.48) (xy 152.4 154.94)
+			(xy 243.84 167.64) (xy 243.84 165.1)
 		)
 		(stroke
 			(width 0)
@@ -8795,7 +8795,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 78.74) (xy 105.41 78.74)
+			(xy 189.23 88.9) (xy 196.85 88.9)
 		)
 		(stroke
 			(width 0)
@@ -8805,7 +8805,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 121.92) (xy 132.08 121.92)
+			(xy 231.14 132.08) (xy 223.52 132.08)
 		)
 		(stroke
 			(width 0)
@@ -8815,7 +8815,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 123.19) (xy 163.83 123.19)
+			(xy 254 133.35) (xy 255.27 133.35)
 		)
 		(stroke
 			(width 0)
@@ -8825,7 +8825,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 128.27) (xy 165.1 128.27)
+			(xy 254 138.43) (xy 256.54 138.43)
 		)
 		(stroke
 			(width 0)
@@ -8835,7 +8835,7 @@
 	)
 	(polyline
 		(pts
-			(xy 54.61 125.73) (xy 21.59 125.73)
+			(xy 146.05 135.89) (xy 113.03 135.89)
 		)
 		(stroke
 			(width 0)
@@ -8845,7 +8845,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 104.14) (xy 182.88 104.14)
+			(xy 271.78 114.3) (xy 274.32 114.3)
 		)
 		(stroke
 			(width 0)
@@ -8855,7 +8855,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 157.48) (xy 152.4 157.48)
+			(xy 254 167.64) (xy 243.84 167.64)
 		)
 		(stroke
 			(width 0)
@@ -8865,7 +8865,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 81.28) (xy 162.56 81.28)
+			(xy 255.27 91.44) (xy 254 91.44)
 		)
 		(stroke
 			(width 0)
@@ -8875,7 +8875,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 101.6) (xy 90.17 101.6)
+			(xy 195.58 111.76) (xy 181.61 111.76)
 		)
 		(stroke
 			(width 0)
@@ -8885,7 +8885,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 78.74) (xy 85.09 78.74)
+			(xy 157.48 88.9) (xy 176.53 88.9)
 		)
 		(stroke
 			(width 0)
@@ -8895,7 +8895,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 78.74) (xy 139.7 78.74)
+			(xy 196.85 88.9) (xy 231.14 88.9)
 		)
 		(stroke
 			(width 0)
@@ -8905,7 +8905,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 162.56) (xy 147.32 162.56)
+			(xy 254 172.72) (xy 238.76 172.72)
 		)
 		(stroke
 			(width 0)
@@ -8915,7 +8915,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 104.14) (xy 165.1 104.14)
+			(xy 254 114.3) (xy 256.54 114.3)
 		)
 		(stroke
 			(width 0)
@@ -8925,7 +8925,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 95.25) (xy 165.1 95.25)
+			(xy 254 105.41) (xy 256.54 105.41)
 		)
 		(stroke
 			(width 0)
@@ -8935,7 +8935,7 @@
 	)
 	(polyline
 		(pts
-			(xy 54.61 90.17) (xy 135.89 90.17)
+			(xy 146.05 100.33) (xy 227.33 100.33)
 		)
 		(stroke
 			(width 0)
@@ -8946,7 +8946,7 @@
 	(symbol
 		(lib_name "Block_1")
 		(lib_id "Block_Template:Block")
-		(at 151.13 69.85 0)
+		(at 242.57 80.01 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8956,7 +8956,7 @@
 		(dnp no)
 		(uuid "01d6f016-5164-4479-895a-ce8c8a17ec37")
 		(property "Reference" "D2"
-			(at 151.13 68.326 0)
+			(at 242.57 78.486 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8967,7 +8967,7 @@
 			)
 		)
 		(property "Value" "ADuM4135"
-			(at 151.13 68.072 0)
+			(at 242.57 78.232 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8978,7 +8978,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 151.13 69.85 0)
+			(at 242.57 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8989,7 +8989,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 69.85 0)
+			(at 242.57 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9000,7 +9000,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 151.13 69.85 0)
+			(at 242.57 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9011,7 +9011,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 151.13 69.85 0)
+			(at 242.57 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9022,7 +9022,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 151.13 69.85 0)
+			(at 242.57 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9033,7 +9033,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 151.13 69.85 0)
+			(at 242.57 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9044,7 +9044,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 151.13 69.85 0)
+			(at 242.57 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9078,7 +9078,7 @@
 	(symbol
 		(lib_name "Label_14")
 		(lib_id "Block_Template:Label")
-		(at 73.66 137.16 0)
+		(at 165.1 147.32 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9088,7 +9088,7 @@
 		(dnp no)
 		(uuid "0279958b-3744-4f9c-b58e-d1af28cc203d")
 		(property "Reference" "D57"
-			(at 73.66 137.16 0)
+			(at 165.1 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9099,7 +9099,7 @@
 			)
 		)
 		(property "Value" "+3.3V iso"
-			(at 73.66 137.16 0)
+			(at 165.1 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9111,7 +9111,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 73.66 137.16 0)
+			(at 165.1 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9122,7 +9122,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.66 137.16 0)
+			(at 165.1 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9133,7 +9133,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 73.66 137.16 0)
+			(at 165.1 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9144,7 +9144,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 73.66 137.16 0)
+			(at 165.1 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9155,7 +9155,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 73.66 137.16 0)
+			(at 165.1 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9166,7 +9166,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 73.66 137.16 0)
+			(at 165.1 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9177,7 +9177,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 73.66 137.16 0)
+			(at 165.1 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9205,7 +9205,7 @@
 	(symbol
 		(lib_name "Label_16")
 		(lib_id "Block_Template:Label")
-		(at 177.8 125.73 0)
+		(at 269.24 135.89 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9215,7 +9215,7 @@
 		(dnp no)
 		(uuid "061768dc-b516-4d92-9ef5-5f6c30a62a64")
 		(property "Reference" "D30"
-			(at 177.8 125.73 0)
+			(at 269.24 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9226,7 +9226,7 @@
 			)
 		)
 		(property "Value" "Напряжение инвертора"
-			(at 177.8 125.73 0)
+			(at 269.24 135.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9238,7 +9238,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 177.8 125.73 0)
+			(at 269.24 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9249,7 +9249,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 177.8 125.73 0)
+			(at 269.24 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9260,7 +9260,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 177.8 125.73 0)
+			(at 269.24 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9271,7 +9271,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 177.8 125.73 0)
+			(at 269.24 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9282,7 +9282,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 177.8 125.73 0)
+			(at 269.24 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9293,7 +9293,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 177.8 125.73 0)
+			(at 269.24 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9304,7 +9304,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 177.8 125.73 0)
+			(at 269.24 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9332,7 +9332,7 @@
 	(symbol
 		(lib_name "Label_34")
 		(lib_id "Block_Template:Label")
-		(at 120.65 144.78 0)
+		(at 212.09 154.94 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9342,7 +9342,7 @@
 		(dnp no)
 		(uuid "0a202a8f-58fc-40df-bf38-28f5c1658270")
 		(property "Reference" "D54"
-			(at 120.65 144.78 0)
+			(at 212.09 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9353,7 +9353,7 @@
 			)
 		)
 		(property "Value" "Реле ОС"
-			(at 120.65 144.78 0)
+			(at 212.09 154.94 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9365,7 +9365,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 120.65 144.78 0)
+			(at 212.09 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9376,7 +9376,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 120.65 144.78 0)
+			(at 212.09 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9387,7 +9387,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 120.65 144.78 0)
+			(at 212.09 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9398,7 +9398,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 120.65 144.78 0)
+			(at 212.09 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9409,7 +9409,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 120.65 144.78 0)
+			(at 212.09 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9420,7 +9420,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 120.65 144.78 0)
+			(at 212.09 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9431,7 +9431,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 120.65 144.78 0)
+			(at 212.09 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9459,7 +9459,7 @@
 	(symbol
 		(lib_name "Label_7")
 		(lib_id "Block_Template:Label")
-		(at 170.18 144.78 0)
+		(at 261.62 154.94 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9469,7 +9469,7 @@
 		(dnp no)
 		(uuid "0b6aa3e5-226c-4ade-9ed1-efafe282bd4b")
 		(property "Reference" "D18"
-			(at 170.18 144.78 0)
+			(at 261.62 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9480,7 +9480,7 @@
 			)
 		)
 		(property "Value" "Реле 2"
-			(at 170.18 144.78 0)
+			(at 261.62 154.94 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9492,7 +9492,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 170.18 144.78 0)
+			(at 261.62 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9503,7 +9503,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 144.78 0)
+			(at 261.62 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9514,7 +9514,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 170.18 144.78 0)
+			(at 261.62 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9525,7 +9525,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 170.18 144.78 0)
+			(at 261.62 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9536,7 +9536,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 170.18 144.78 0)
+			(at 261.62 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9547,7 +9547,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 170.18 144.78 0)
+			(at 261.62 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9558,7 +9558,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 170.18 144.78 0)
+			(at 261.62 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9586,7 +9586,7 @@
 	(symbol
 		(lib_name "Label_27")
 		(lib_id "Block_Template:Label")
-		(at 132.08 137.16 0)
+		(at 223.52 147.32 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9596,7 +9596,7 @@
 		(dnp no)
 		(uuid "114e37b2-3a26-4cf0-9ab9-e6270e0ddc36")
 		(property "Reference" "D56"
-			(at 132.08 137.16 0)
+			(at 223.52 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9607,7 +9607,7 @@
 			)
 		)
 		(property "Value" "+3.3V iso"
-			(at 132.08 137.16 0)
+			(at 223.52 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9619,7 +9619,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 132.08 137.16 0)
+			(at 223.52 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9630,7 +9630,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 137.16 0)
+			(at 223.52 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9641,7 +9641,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 132.08 137.16 0)
+			(at 223.52 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9652,7 +9652,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 132.08 137.16 0)
+			(at 223.52 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9663,7 +9663,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 132.08 137.16 0)
+			(at 223.52 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9674,7 +9674,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 132.08 137.16 0)
+			(at 223.52 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9685,7 +9685,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 132.08 137.16 0)
+			(at 223.52 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9713,7 +9713,7 @@
 	(symbol
 		(lib_name "Label_32")
 		(lib_id "Block_Template:Label")
-		(at 116.84 121.92 0)
+		(at 208.28 132.08 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9723,7 +9723,7 @@
 		(dnp no)
 		(uuid "19d5b864-f493-41f4-b349-657c11a405ea")
 		(property "Reference" "D52"
-			(at 116.84 121.92 0)
+			(at 208.28 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9734,7 +9734,7 @@
 			)
 		)
 		(property "Value" "Измеренное напряжение"
-			(at 116.84 121.92 0)
+			(at 208.28 132.08 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9746,7 +9746,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 121.92 0)
+			(at 208.28 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9757,7 +9757,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 121.92 0)
+			(at 208.28 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9768,7 +9768,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 121.92 0)
+			(at 208.28 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9779,7 +9779,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 116.84 121.92 0)
+			(at 208.28 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9790,7 +9790,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 116.84 121.92 0)
+			(at 208.28 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9801,7 +9801,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 116.84 121.92 0)
+			(at 208.28 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9812,7 +9812,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 116.84 121.92 0)
+			(at 208.28 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9840,7 +9840,7 @@
 	(symbol
 		(lib_name "Label_28")
 		(lib_id "Block_Template:Label")
-		(at 132.08 116.84 0)
+		(at 223.52 127 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9850,7 +9850,7 @@
 		(dnp no)
 		(uuid "1d819623-05d5-4116-b6dc-afccc8889573")
 		(property "Reference" "D55"
-			(at 132.08 116.84 0)
+			(at 223.52 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9861,7 +9861,7 @@
 			)
 		)
 		(property "Value" "+3.3V iso"
-			(at 132.08 116.84 0)
+			(at 223.52 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9873,7 +9873,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 132.08 116.84 0)
+			(at 223.52 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9884,7 +9884,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 116.84 0)
+			(at 223.52 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9895,7 +9895,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 132.08 116.84 0)
+			(at 223.52 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9906,7 +9906,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 132.08 116.84 0)
+			(at 223.52 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9917,7 +9917,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 132.08 116.84 0)
+			(at 223.52 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9928,7 +9928,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 132.08 116.84 0)
+			(at 223.52 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9939,7 +9939,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 132.08 116.84 0)
+			(at 223.52 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9967,7 +9967,7 @@
 	(symbol
 		(lib_name "Block_3")
 		(lib_id "Block_Template:Block")
-		(at 92.71 134.62 0)
+		(at 184.15 144.78 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9977,7 +9977,7 @@
 		(dnp no)
 		(uuid "1e23a1aa-22e9-4c7e-b49a-967b9498514c")
 		(property "Reference" "D4"
-			(at 92.71 133.096 0)
+			(at 184.15 143.256 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9988,7 +9988,7 @@
 			)
 		)
 		(property "Value" "ADuM4135"
-			(at 92.71 132.842 0)
+			(at 184.15 143.002 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9999,7 +9999,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 92.71 134.62 0)
+			(at 184.15 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10010,7 +10010,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 92.71 134.62 0)
+			(at 184.15 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10021,7 +10021,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 92.71 134.62 0)
+			(at 184.15 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10032,7 +10032,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 92.71 134.62 0)
+			(at 184.15 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10043,7 +10043,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 92.71 134.62 0)
+			(at 184.15 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10054,7 +10054,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 92.71 134.62 0)
+			(at 184.15 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10065,7 +10065,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 92.71 134.62 0)
+			(at 184.15 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10105,7 +10105,7 @@
 	(symbol
 		(lib_name "Label_18")
 		(lib_id "Block_Template:Label")
-		(at 172.72 104.14 0)
+		(at 264.16 114.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10115,7 +10115,7 @@
 		(dnp no)
 		(uuid "27d123c7-fe77-49ae-98c0-91ebed1f8e7c")
 		(property "Reference" "D32"
-			(at 172.72 104.14 0)
+			(at 264.16 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10126,7 +10126,7 @@
 			)
 		)
 		(property "Value" "Ток ЭХГ"
-			(at 172.72 104.14 0)
+			(at 264.16 114.3 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10138,7 +10138,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 172.72 104.14 0)
+			(at 264.16 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10149,7 +10149,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 172.72 104.14 0)
+			(at 264.16 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10160,7 +10160,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 172.72 104.14 0)
+			(at 264.16 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10171,7 +10171,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 172.72 104.14 0)
+			(at 264.16 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10182,7 +10182,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 172.72 104.14 0)
+			(at 264.16 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10193,7 +10193,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 172.72 104.14 0)
+			(at 264.16 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10204,7 +10204,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 172.72 104.14 0)
+			(at 264.16 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10231,7 +10231,7 @@
 	)
 	(symbol
 		(lib_id "Block_Template:Arrow")
-		(at 182.88 147.32 0)
+		(at 274.32 157.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10242,7 +10242,7 @@
 		(fields_autoplaced yes)
 		(uuid "30ab1ea5-e447-4c4e-bdb5-9f121f2f47bb")
 		(property "Reference" "D21"
-			(at 182.88 145.034 0)
+			(at 274.32 155.194 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10253,7 +10253,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 182.88 147.32 0)
+			(at 274.32 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10263,7 +10263,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 182.88 147.32 0)
+			(at 274.32 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10274,7 +10274,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 182.88 147.32 0)
+			(at 274.32 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10285,7 +10285,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 182.88 147.32 0)
+			(at 274.32 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10310,7 +10310,7 @@
 	(symbol
 		(lib_name "Label_21")
 		(lib_id "Block_Template:Label")
-		(at 73.66 111.76 0)
+		(at 165.1 121.92 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10320,7 +10320,7 @@
 		(dnp no)
 		(uuid "37611334-d33c-483c-b641-3287f72224e9")
 		(property "Reference" "D58"
-			(at 73.66 111.76 0)
+			(at 165.1 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10331,7 +10331,7 @@
 			)
 		)
 		(property "Value" "+3.3V iso"
-			(at 73.66 111.76 0)
+			(at 165.1 121.92 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10343,7 +10343,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 73.66 111.76 0)
+			(at 165.1 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10354,7 +10354,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.66 111.76 0)
+			(at 165.1 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10365,7 +10365,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 73.66 111.76 0)
+			(at 165.1 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10376,7 +10376,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 73.66 111.76 0)
+			(at 165.1 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10387,7 +10387,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 73.66 111.76 0)
+			(at 165.1 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10398,7 +10398,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 73.66 111.76 0)
+			(at 165.1 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10409,7 +10409,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 73.66 111.76 0)
+			(at 165.1 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10436,7 +10436,7 @@
 	)
 	(symbol
 		(lib_id "Block_Template:Arrow")
-		(at 182.88 149.86 0)
+		(at 274.32 160.02 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10447,7 +10447,7 @@
 		(fields_autoplaced yes)
 		(uuid "376e1fd1-59eb-496d-a3c0-a8fd604044af")
 		(property "Reference" "D23"
-			(at 182.88 147.574 0)
+			(at 274.32 157.734 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10458,7 +10458,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 182.88 149.86 0)
+			(at 274.32 160.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10468,7 +10468,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 182.88 149.86 0)
+			(at 274.32 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10479,7 +10479,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 182.88 149.86 0)
+			(at 274.32 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10490,7 +10490,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 182.88 149.86 0)
+			(at 274.32 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10515,7 +10515,7 @@
 	(symbol
 		(lib_name "Label_2")
 		(lib_id "Block_Template:Label")
-		(at 172.72 76.2 0)
+		(at 264.16 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10525,7 +10525,7 @@
 		(dnp no)
 		(uuid "39d41f90-155d-4bcf-adf2-da90b6ea6f14")
 		(property "Reference" "D11"
-			(at 172.72 76.2 0)
+			(at 264.16 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10536,7 +10536,7 @@
 			)
 		)
 		(property "Value" "+5V iso"
-			(at 172.72 76.2 0)
+			(at 264.16 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10548,7 +10548,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 172.72 76.2 0)
+			(at 264.16 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10559,7 +10559,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 172.72 76.2 0)
+			(at 264.16 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10570,7 +10570,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 172.72 76.2 0)
+			(at 264.16 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10581,7 +10581,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 172.72 76.2 0)
+			(at 264.16 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10592,7 +10592,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 172.72 76.2 0)
+			(at 264.16 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10603,7 +10603,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 172.72 76.2 0)
+			(at 264.16 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10614,7 +10614,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 172.72 76.2 0)
+			(at 264.16 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10642,7 +10642,7 @@
 	(symbol
 		(lib_name "Block_2")
 		(lib_id "Block_Template:Block")
-		(at 151.13 49.53 0)
+		(at 242.57 59.69 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10652,7 +10652,7 @@
 		(dnp no)
 		(uuid "3cd45faf-d70a-4fe5-9b06-eebfd51191fb")
 		(property "Reference" "D3"
-			(at 151.13 48.006 0)
+			(at 242.57 58.166 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10663,7 +10663,7 @@
 			)
 		)
 		(property "Value" "ADuM4135"
-			(at 151.13 47.752 0)
+			(at 242.57 57.912 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10674,7 +10674,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 151.13 49.53 0)
+			(at 242.57 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10685,7 +10685,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 49.53 0)
+			(at 242.57 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10696,7 +10696,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 151.13 49.53 0)
+			(at 242.57 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10707,7 +10707,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 151.13 49.53 0)
+			(at 242.57 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10718,7 +10718,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 151.13 49.53 0)
+			(at 242.57 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10729,7 +10729,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 151.13 49.53 0)
+			(at 242.57 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10740,7 +10740,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 151.13 49.53 0)
+			(at 242.57 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10768,7 +10768,7 @@
 	(symbol
 		(lib_name "Label_12")
 		(lib_id "Block_Template:Label")
-		(at 171.45 162.56 0)
+		(at 262.89 172.72 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10778,7 +10778,7 @@
 		(dnp no)
 		(uuid "416ec179-7720-4c97-9ced-02b603ef8fcd")
 		(property "Reference" "D27"
-			(at 171.45 162.56 0)
+			(at 262.89 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10789,7 +10789,7 @@
 			)
 		)
 		(property "Value" "Реле 4 ОС"
-			(at 171.45 162.56 0)
+			(at 262.89 172.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10801,7 +10801,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.45 162.56 0)
+			(at 262.89 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10812,7 +10812,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.45 162.56 0)
+			(at 262.89 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10823,7 +10823,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 171.45 162.56 0)
+			(at 262.89 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10834,7 +10834,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 171.45 162.56 0)
+			(at 262.89 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10845,7 +10845,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 171.45 162.56 0)
+			(at 262.89 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10856,7 +10856,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 171.45 162.56 0)
+			(at 262.89 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10867,7 +10867,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 171.45 162.56 0)
+			(at 262.89 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10894,7 +10894,7 @@
 	)
 	(symbol
 		(lib_id "Block_Template:Arrow")
-		(at 182.88 142.24 0)
+		(at 274.32 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10905,7 +10905,7 @@
 		(fields_autoplaced yes)
 		(uuid "417090dd-29aa-44e7-92a2-429bd4580843")
 		(property "Reference" "D17"
-			(at 182.88 139.954 0)
+			(at 274.32 150.114 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10916,7 +10916,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 182.88 142.24 0)
+			(at 274.32 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10926,7 +10926,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 182.88 142.24 0)
+			(at 274.32 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10937,7 +10937,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 182.88 142.24 0)
+			(at 274.32 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10948,7 +10948,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 182.88 142.24 0)
+			(at 274.32 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10973,7 +10973,7 @@
 	(symbol
 		(lib_name "Label_15")
 		(lib_id "Block_Template:Label")
-		(at 177.8 123.19 0)
+		(at 269.24 133.35 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10983,7 +10983,7 @@
 		(dnp no)
 		(uuid "4368f82f-254e-4fea-a231-1ea9bfb35d73")
 		(property "Reference" "D29"
-			(at 177.8 123.19 0)
+			(at 269.24 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10994,7 +10994,7 @@
 			)
 		)
 		(property "Value" "Напряжение батареи"
-			(at 177.8 123.19 0)
+			(at 269.24 133.35 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11006,7 +11006,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 177.8 123.19 0)
+			(at 269.24 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11017,7 +11017,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 177.8 123.19 0)
+			(at 269.24 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11028,7 +11028,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 177.8 123.19 0)
+			(at 269.24 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11039,7 +11039,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 177.8 123.19 0)
+			(at 269.24 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11050,7 +11050,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 177.8 123.19 0)
+			(at 269.24 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11061,7 +11061,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 177.8 123.19 0)
+			(at 269.24 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11072,7 +11072,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 177.8 123.19 0)
+			(at 269.24 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11100,7 +11100,7 @@
 	(symbol
 		(lib_name "Label_25")
 		(lib_id "Block_Template:Label")
-		(at 171.45 81.28 0)
+		(at 262.89 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11110,7 +11110,7 @@
 		(dnp no)
 		(uuid "43ce7e15-4631-4c6c-9dd5-689db89cf618")
 		(property "Reference" "D43"
-			(at 171.45 81.28 0)
+			(at 262.89 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11121,7 +11121,7 @@
 			)
 		)
 		(property "Value" "+/-15V"
-			(at 171.45 81.28 0)
+			(at 262.89 91.44 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11133,7 +11133,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.45 81.28 0)
+			(at 262.89 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11144,7 +11144,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.45 81.28 0)
+			(at 262.89 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11155,7 +11155,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 171.45 81.28 0)
+			(at 262.89 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11166,7 +11166,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 171.45 81.28 0)
+			(at 262.89 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11177,7 +11177,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 171.45 81.28 0)
+			(at 262.89 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11188,7 +11188,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 171.45 81.28 0)
+			(at 262.89 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11199,7 +11199,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 171.45 81.28 0)
+			(at 262.89 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11226,7 +11226,7 @@
 	)
 	(symbol
 		(lib_id "Block_Template:Arrow")
-		(at 185.42 57.15 0)
+		(at 276.86 67.31 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11237,7 +11237,7 @@
 		(fields_autoplaced yes)
 		(uuid "46983b90-c580-41a6-a822-12fc4c55ee0c")
 		(property "Reference" "D15"
-			(at 185.42 54.864 0)
+			(at 276.86 65.024 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11248,7 +11248,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 185.42 57.15 0)
+			(at 276.86 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11258,7 +11258,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 185.42 57.15 0)
+			(at 276.86 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11269,7 +11269,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 57.15 0)
+			(at 276.86 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11280,7 +11280,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 185.42 57.15 0)
+			(at 276.86 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11305,7 +11305,7 @@
 	(symbol
 		(lib_name "Label_22")
 		(lib_id "Block_Template:Label")
-		(at 171.45 139.7 0)
+		(at 262.89 149.86 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11315,7 +11315,7 @@
 		(dnp no)
 		(uuid "48d09aa5-9caf-4c4a-8990-81523ed78187")
 		(property "Reference" "D40"
-			(at 171.45 139.7 0)
+			(at 262.89 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11326,7 +11326,7 @@
 			)
 		)
 		(property "Value" "+5V non iso"
-			(at 171.45 139.7 0)
+			(at 262.89 149.86 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11338,7 +11338,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.45 139.7 0)
+			(at 262.89 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11349,7 +11349,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.45 139.7 0)
+			(at 262.89 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11360,7 +11360,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 171.45 139.7 0)
+			(at 262.89 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11371,7 +11371,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 171.45 139.7 0)
+			(at 262.89 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11382,7 +11382,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 171.45 139.7 0)
+			(at 262.89 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11393,7 +11393,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 171.45 139.7 0)
+			(at 262.89 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11404,7 +11404,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 171.45 139.7 0)
+			(at 262.89 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11431,7 +11431,7 @@
 	)
 	(symbol
 		(lib_id "Block_Template:Arrow")
-		(at 187.96 81.28 0)
+		(at 279.4 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11442,7 +11442,7 @@
 		(fields_autoplaced yes)
 		(uuid "4b2e5f8c-78df-4cb1-a46e-6ee8ca721728")
 		(property "Reference" "D44"
-			(at 187.96 78.994 0)
+			(at 279.4 89.154 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11453,7 +11453,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 187.96 81.28 0)
+			(at 279.4 91.44 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11463,7 +11463,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 81.28 0)
+			(at 279.4 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11474,7 +11474,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 81.28 0)
+			(at 279.4 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11485,7 +11485,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 187.96 81.28 0)
+			(at 279.4 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11510,7 +11510,7 @@
 	(symbol
 		(lib_name "Label_17")
 		(lib_id "Block_Template:Label")
-		(at 176.53 128.27 0)
+		(at 267.97 138.43 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11520,7 +11520,7 @@
 		(dnp no)
 		(uuid "5a1502c7-87b7-4019-8b76-5830c014d02d")
 		(property "Reference" "D31"
-			(at 176.53 128.27 0)
+			(at 267.97 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11531,7 +11531,7 @@
 			)
 		)
 		(property "Value" "Напряжение ЭХГ"
-			(at 176.53 128.27 0)
+			(at 267.97 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11543,7 +11543,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 128.27 0)
+			(at 267.97 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11554,7 +11554,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 128.27 0)
+			(at 267.97 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11565,7 +11565,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 176.53 128.27 0)
+			(at 267.97 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11576,7 +11576,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 176.53 128.27 0)
+			(at 267.97 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11587,7 +11587,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 176.53 128.27 0)
+			(at 267.97 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11598,7 +11598,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 176.53 128.27 0)
+			(at 267.97 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11609,7 +11609,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 176.53 128.27 0)
+			(at 267.97 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11637,7 +11637,7 @@
 	(symbol
 		(lib_name "Label_3")
 		(lib_id "Block_Template:Label")
-		(at 36.83 78.74 0)
+		(at 128.27 88.9 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11647,7 +11647,7 @@
 		(dnp no)
 		(uuid "647d750a-505f-40f4-995a-fecc0fa0ba39")
 		(property "Reference" "D9"
-			(at 36.83 78.74 0)
+			(at 128.27 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11658,7 +11658,7 @@
 			)
 		)
 		(property "Value" "+24V"
-			(at 36.83 78.74 0)
+			(at 128.27 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11670,7 +11670,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 36.83 78.74 0)
+			(at 128.27 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11681,7 +11681,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 36.83 78.74 0)
+			(at 128.27 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11692,7 +11692,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 36.83 78.74 0)
+			(at 128.27 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11703,7 +11703,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 36.83 78.74 0)
+			(at 128.27 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11714,7 +11714,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 36.83 78.74 0)
+			(at 128.27 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11725,7 +11725,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 36.83 78.74 0)
+			(at 128.27 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11736,7 +11736,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 36.83 78.74 0)
+			(at 128.27 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11764,7 +11764,7 @@
 	(symbol
 		(lib_name "Label_6")
 		(lib_id "Block_Template:Label")
-		(at 170.18 142.24 0)
+		(at 261.62 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11774,7 +11774,7 @@
 		(dnp no)
 		(uuid "6843193d-8f1d-491f-847f-d43ff769bf52")
 		(property "Reference" "D16"
-			(at 170.18 142.24 0)
+			(at 261.62 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11785,7 +11785,7 @@
 			)
 		)
 		(property "Value" "Реле 1"
-			(at 170.18 142.24 0)
+			(at 261.62 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11797,7 +11797,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 170.18 142.24 0)
+			(at 261.62 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11808,7 +11808,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 142.24 0)
+			(at 261.62 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11819,7 +11819,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 170.18 142.24 0)
+			(at 261.62 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11830,7 +11830,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 170.18 142.24 0)
+			(at 261.62 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11841,7 +11841,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 170.18 142.24 0)
+			(at 261.62 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11852,7 +11852,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 170.18 142.24 0)
+			(at 261.62 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11863,7 +11863,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 170.18 142.24 0)
+			(at 261.62 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11890,7 +11890,7 @@
 	)
 	(symbol
 		(lib_id "Block_Template:Arrow")
-		(at 187.96 76.2 0)
+		(at 279.4 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11901,7 +11901,7 @@
 		(fields_autoplaced yes)
 		(uuid "6e1641d7-eab2-483c-bdf5-3ba120c6f285")
 		(property "Reference" "D49"
-			(at 187.96 73.914 0)
+			(at 279.4 84.074 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11912,7 +11912,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 187.96 76.2 0)
+			(at 279.4 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11922,7 +11922,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 76.2 0)
+			(at 279.4 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11933,7 +11933,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 76.2 0)
+			(at 279.4 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11944,7 +11944,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 187.96 76.2 0)
+			(at 279.4 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11969,7 +11969,7 @@
 	(symbol
 		(lib_name "Label_11")
 		(lib_id "Block_Template:Label")
-		(at 171.45 160.02 0)
+		(at 262.89 170.18 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11979,7 +11979,7 @@
 		(dnp no)
 		(uuid "740d429d-7d40-4ff0-9ffc-9c91ad80c82a")
 		(property "Reference" "D26"
-			(at 171.45 160.02 0)
+			(at 262.89 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11990,7 +11990,7 @@
 			)
 		)
 		(property "Value" "Реле 3 ОС"
-			(at 171.45 160.02 0)
+			(at 262.89 170.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12002,7 +12002,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.45 160.02 0)
+			(at 262.89 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12013,7 +12013,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.45 160.02 0)
+			(at 262.89 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12024,7 +12024,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 171.45 160.02 0)
+			(at 262.89 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12035,7 +12035,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 171.45 160.02 0)
+			(at 262.89 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12046,7 +12046,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 171.45 160.02 0)
+			(at 262.89 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12057,7 +12057,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 171.45 160.02 0)
+			(at 262.89 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12068,7 +12068,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 171.45 160.02 0)
+			(at 262.89 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12096,7 +12096,7 @@
 	(symbol
 		(lib_name "Label_20")
 		(lib_id "Block_Template:Label")
-		(at 36.83 142.24 0)
+		(at 128.27 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12106,7 +12106,7 @@
 		(dnp no)
 		(uuid "75975b7f-725e-42de-974e-c78419a139dd")
 		(property "Reference" "D35"
-			(at 36.83 142.24 0)
+			(at 128.27 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12117,7 +12117,7 @@
 			)
 		)
 		(property "Value" "CAN"
-			(at 36.83 142.24 0)
+			(at 128.27 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12129,7 +12129,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 36.83 142.24 0)
+			(at 128.27 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12140,7 +12140,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 36.83 142.24 0)
+			(at 128.27 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12151,7 +12151,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 36.83 142.24 0)
+			(at 128.27 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12162,7 +12162,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 36.83 142.24 0)
+			(at 128.27 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12173,7 +12173,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 36.83 142.24 0)
+			(at 128.27 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12184,7 +12184,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 36.83 142.24 0)
+			(at 128.27 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12195,7 +12195,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 36.83 142.24 0)
+			(at 128.27 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12222,7 +12222,7 @@
 	)
 	(symbol
 		(lib_id "Block_Template:Arrow")
-		(at 187.96 78.74 0)
+		(at 279.4 88.9 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12233,7 +12233,7 @@
 		(fields_autoplaced yes)
 		(uuid "75c91b8c-0a7f-4ce2-a260-1591f6c3c061")
 		(property "Reference" "D13"
-			(at 187.96 76.454 0)
+			(at 279.4 86.614 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12244,7 +12244,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 187.96 78.74 0)
+			(at 279.4 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12254,7 +12254,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 78.74 0)
+			(at 279.4 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12265,7 +12265,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 78.74 0)
+			(at 279.4 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12276,7 +12276,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 187.96 78.74 0)
+			(at 279.4 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12301,7 +12301,7 @@
 	(symbol
 		(lib_name "Label_30")
 		(lib_id "Block_Template:Label")
-		(at 35.56 111.76 0)
+		(at 127 121.92 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12311,7 +12311,7 @@
 		(dnp no)
 		(uuid "76b5ff86-56c9-46fa-8c11-2bbec35c7074")
 		(property "Reference" "D28"
-			(at 35.56 111.76 0)
+			(at 127 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12322,7 +12322,7 @@
 			)
 		)
 		(property "Value" "+5V iso"
-			(at 35.56 111.76 0)
+			(at 127 121.92 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12334,7 +12334,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 35.56 111.76 0)
+			(at 127 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12345,7 +12345,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 35.56 111.76 0)
+			(at 127 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12356,7 +12356,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 35.56 111.76 0)
+			(at 127 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12367,7 +12367,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 35.56 111.76 0)
+			(at 127 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12378,7 +12378,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 35.56 111.76 0)
+			(at 127 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12389,7 +12389,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 35.56 111.76 0)
+			(at 127 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12400,7 +12400,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 35.56 111.76 0)
+			(at 127 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12427,7 +12427,7 @@
 	)
 	(symbol
 		(lib_id "Block_Template:CAN_iso")
-		(at 54.61 134.62 0)
+		(at 146.05 144.78 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12438,7 +12438,7 @@
 		(fields_autoplaced yes)
 		(uuid "82e14025-cd8c-4ab1-bbd1-2c21dc2f6aa8")
 		(property "Reference" "D6"
-			(at 54.61 133.096 0)
+			(at 146.05 143.256 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12449,7 +12449,7 @@
 			)
 		)
 		(property "Value" "ADuM4135"
-			(at 54.61 132.842 0)
+			(at 146.05 143.002 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12460,7 +12460,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 134.62 0)
+			(at 146.05 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12471,7 +12471,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 134.62 0)
+			(at 146.05 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12482,7 +12482,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 54.61 134.62 0)
+			(at 146.05 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12493,7 +12493,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 54.61 134.62 0)
+			(at 146.05 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12504,7 +12504,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 54.61 134.62 0)
+			(at 146.05 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12515,7 +12515,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 54.61 134.62 0)
+			(at 146.05 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12526,7 +12526,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 54.61 134.62 0)
+			(at 146.05 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12557,7 +12557,7 @@
 	(symbol
 		(lib_name "Arrow_1")
 		(lib_id "Block_Template:Arrow")
-		(at 25.4 142.24 180)
+		(at 116.84 152.4 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12568,7 +12568,7 @@
 		(fields_autoplaced yes)
 		(uuid "8f5df05f-2b15-4827-9d11-ee40695836fa")
 		(property "Reference" "D36"
-			(at 25.4 144.526 0)
+			(at 116.84 154.686 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12579,7 +12579,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 25.4 142.24 0)
+			(at 116.84 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12589,7 +12589,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 25.4 142.24 0)
+			(at 116.84 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12600,7 +12600,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 25.4 142.24 0)
+			(at 116.84 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12611,7 +12611,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 25.4 142.24 0)
+			(at 116.84 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12622,7 +12622,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 25.4 142.24 0)
+			(at 116.84 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12633,7 +12633,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 25.4 142.24 0)
+			(at 116.84 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12644,7 +12644,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 25.4 142.24 0)
+			(at 116.84 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12655,7 +12655,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 25.4 142.24 0)
+			(at 116.84 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12680,7 +12680,7 @@
 	(symbol
 		(lib_name "Label_1")
 		(lib_id "Block_Template:Label")
-		(at 91.44 78.74 0)
+		(at 182.88 88.9 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12690,7 +12690,7 @@
 		(dnp no)
 		(uuid "95020612-87f2-43f4-8b66-e55e2e60885f")
 		(property "Reference" "D10"
-			(at 91.44 78.74 0)
+			(at 182.88 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12701,7 +12701,7 @@
 			)
 		)
 		(property "Value" "+24V"
-			(at 91.44 78.74 0)
+			(at 182.88 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12713,7 +12713,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 91.44 78.74 0)
+			(at 182.88 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12724,7 +12724,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 91.44 78.74 0)
+			(at 182.88 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12735,7 +12735,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 91.44 78.74 0)
+			(at 182.88 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12746,7 +12746,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 91.44 78.74 0)
+			(at 182.88 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12757,7 +12757,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 91.44 78.74 0)
+			(at 182.88 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12768,7 +12768,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 91.44 78.74 0)
+			(at 182.88 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12779,7 +12779,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 91.44 78.74 0)
+			(at 182.88 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12807,7 +12807,7 @@
 	(symbol
 		(lib_name "Label_4")
 		(lib_id "Block_Template:Label")
-		(at 172.72 78.74 0)
+		(at 264.16 88.9 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12817,7 +12817,7 @@
 		(dnp no)
 		(uuid "a3630451-482b-455b-bb85-71024a96988a")
 		(property "Reference" "D12"
-			(at 172.72 78.74 0)
+			(at 264.16 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12828,7 +12828,7 @@
 			)
 		)
 		(property "Value" "+3.3V iso HV"
-			(at 172.72 78.74 0)
+			(at 264.16 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12840,7 +12840,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 172.72 78.74 0)
+			(at 264.16 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12851,7 +12851,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 172.72 78.74 0)
+			(at 264.16 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12862,7 +12862,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 172.72 78.74 0)
+			(at 264.16 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12873,7 +12873,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 172.72 78.74 0)
+			(at 264.16 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12884,7 +12884,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 172.72 78.74 0)
+			(at 264.16 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12895,7 +12895,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 172.72 78.74 0)
+			(at 264.16 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12906,7 +12906,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 172.72 78.74 0)
+			(at 264.16 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12933,7 +12933,7 @@
 	)
 	(symbol
 		(lib_id "Block_Template:Arrow")
-		(at 182.88 144.78 0)
+		(at 274.32 154.94 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12944,7 +12944,7 @@
 		(fields_autoplaced yes)
 		(uuid "ad8242ca-78ae-440d-80c0-1b0521d38b91")
 		(property "Reference" "D19"
-			(at 182.88 142.494 0)
+			(at 274.32 152.654 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12955,7 +12955,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 182.88 144.78 0)
+			(at 274.32 154.94 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12965,7 +12965,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 182.88 144.78 0)
+			(at 274.32 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12976,7 +12976,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 182.88 144.78 0)
+			(at 274.32 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12987,7 +12987,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 182.88 144.78 0)
+			(at 274.32 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13012,7 +13012,7 @@
 	(symbol
 		(lib_name "Block_4")
 		(lib_id "Block_Template:Block")
-		(at 151.13 134.62 0)
+		(at 242.57 144.78 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13022,7 +13022,7 @@
 		(dnp no)
 		(uuid "b0ff5c56-f030-4b4a-98a8-c8d2a30db862")
 		(property "Reference" "D5"
-			(at 151.13 133.096 0)
+			(at 242.57 143.256 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13033,7 +13033,7 @@
 			)
 		)
 		(property "Value" "ADuM4135"
-			(at 151.13 132.842 0)
+			(at 242.57 143.002 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13044,7 +13044,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 151.13 134.62 0)
+			(at 242.57 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13055,7 +13055,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 134.62 0)
+			(at 242.57 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13066,7 +13066,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 151.13 134.62 0)
+			(at 242.57 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13077,7 +13077,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 151.13 134.62 0)
+			(at 242.57 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13088,7 +13088,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 151.13 134.62 0)
+			(at 242.57 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13099,7 +13099,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 151.13 134.62 0)
+			(at 242.57 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13110,7 +13110,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 151.13 134.62 0)
+			(at 242.57 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13171,7 +13171,7 @@
 	(symbol
 		(lib_name "Block_5")
 		(lib_id "Block_Template:Block")
-		(at 151.13 113.03 0)
+		(at 242.57 123.19 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13181,7 +13181,7 @@
 		(dnp no)
 		(uuid "b43203bb-8a00-45e5-a493-a9e6c1382fca")
 		(property "Reference" "D34"
-			(at 151.13 111.506 0)
+			(at 242.57 121.666 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13192,7 +13192,7 @@
 			)
 		)
 		(property "Value" "ADuM4135"
-			(at 151.13 111.252 0)
+			(at 242.57 121.412 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13203,7 +13203,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 151.13 113.03 0)
+			(at 242.57 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13214,7 +13214,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 113.03 0)
+			(at 242.57 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13225,7 +13225,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 151.13 113.03 0)
+			(at 242.57 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13236,7 +13236,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 151.13 113.03 0)
+			(at 242.57 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13247,7 +13247,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 151.13 113.03 0)
+			(at 242.57 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13258,7 +13258,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 151.13 113.03 0)
+			(at 242.57 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13269,7 +13269,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 151.13 113.03 0)
+			(at 242.57 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13309,7 +13309,7 @@
 	(symbol
 		(lib_name "Label_10")
 		(lib_id "Block_Template:Label")
-		(at 171.45 157.48 0)
+		(at 262.89 167.64 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13319,7 +13319,7 @@
 		(dnp no)
 		(uuid "b4e234b0-05aa-448a-8aeb-31bae3414116")
 		(property "Reference" "D25"
-			(at 171.45 157.48 0)
+			(at 262.89 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13330,7 +13330,7 @@
 			)
 		)
 		(property "Value" "Реле 2 ОС"
-			(at 171.45 157.48 0)
+			(at 262.89 167.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13342,7 +13342,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.45 157.48 0)
+			(at 262.89 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13353,7 +13353,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.45 157.48 0)
+			(at 262.89 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13364,7 +13364,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 171.45 157.48 0)
+			(at 262.89 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13375,7 +13375,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 171.45 157.48 0)
+			(at 262.89 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13386,7 +13386,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 171.45 157.48 0)
+			(at 262.89 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13397,7 +13397,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 171.45 157.48 0)
+			(at 262.89 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13408,7 +13408,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 171.45 157.48 0)
+			(at 262.89 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13436,7 +13436,7 @@
 	(symbol
 		(lib_name "Label_24")
 		(lib_id "Block_Template:Label")
-		(at 168.91 137.16 0)
+		(at 260.35 147.32 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13446,7 +13446,7 @@
 		(dnp no)
 		(uuid "b9276a9e-b1b5-413b-8551-0e8a6f7e319d")
 		(property "Reference" "D42"
-			(at 168.91 137.16 0)
+			(at 260.35 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13457,7 +13457,7 @@
 			)
 		)
 		(property "Value" "+24V"
-			(at 168.91 137.16 0)
+			(at 260.35 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13469,7 +13469,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 168.91 137.16 0)
+			(at 260.35 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13480,7 +13480,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 137.16 0)
+			(at 260.35 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13491,7 +13491,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 168.91 137.16 0)
+			(at 260.35 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13502,7 +13502,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 168.91 137.16 0)
+			(at 260.35 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13513,7 +13513,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 168.91 137.16 0)
+			(at 260.35 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13524,7 +13524,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 168.91 137.16 0)
+			(at 260.35 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13535,7 +13535,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 168.91 137.16 0)
+			(at 260.35 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13563,7 +13563,7 @@
 	(symbol
 		(lib_name "Label_13")
 		(lib_id "Block_Template:Label")
-		(at 171.45 154.94 0)
+		(at 262.89 165.1 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13573,7 +13573,7 @@
 		(dnp no)
 		(uuid "b9e7d3c9-7b34-4206-898d-c5f778e36a9d")
 		(property "Reference" "D24"
-			(at 171.45 154.94 0)
+			(at 262.89 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13584,7 +13584,7 @@
 			)
 		)
 		(property "Value" "Реле 1 ОС"
-			(at 171.45 154.94 0)
+			(at 262.89 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13596,7 +13596,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.45 154.94 0)
+			(at 262.89 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13607,7 +13607,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.45 154.94 0)
+			(at 262.89 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13618,7 +13618,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 171.45 154.94 0)
+			(at 262.89 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13629,7 +13629,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 171.45 154.94 0)
+			(at 262.89 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13640,7 +13640,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 171.45 154.94 0)
+			(at 262.89 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13651,7 +13651,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 171.45 154.94 0)
+			(at 262.89 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13662,7 +13662,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 171.45 154.94 0)
+			(at 262.89 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13690,7 +13690,7 @@
 	(symbol
 		(lib_name "Label_9")
 		(lib_id "Block_Template:Label")
-		(at 170.18 149.86 0)
+		(at 261.62 160.02 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13700,7 +13700,7 @@
 		(dnp no)
 		(uuid "c2b3a446-5e5d-41c3-80c7-00a0b8e62521")
 		(property "Reference" "D22"
-			(at 170.18 149.86 0)
+			(at 261.62 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13711,7 +13711,7 @@
 			)
 		)
 		(property "Value" "Реле 4"
-			(at 170.18 149.86 0)
+			(at 261.62 160.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13723,7 +13723,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 170.18 149.86 0)
+			(at 261.62 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13734,7 +13734,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 149.86 0)
+			(at 261.62 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13745,7 +13745,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 170.18 149.86 0)
+			(at 261.62 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13756,7 +13756,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 170.18 149.86 0)
+			(at 261.62 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13767,7 +13767,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 170.18 149.86 0)
+			(at 261.62 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13778,7 +13778,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 170.18 149.86 0)
+			(at 261.62 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13789,7 +13789,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 170.18 149.86 0)
+			(at 261.62 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13817,7 +13817,7 @@
 	(symbol
 		(lib_name "Label_33")
 		(lib_id "Block_Template:Label")
-		(at 120.65 140.97 0)
+		(at 212.09 151.13 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13827,7 +13827,7 @@
 		(dnp no)
 		(uuid "c36d4855-3b4c-48ee-972a-18ba0976a7b4")
 		(property "Reference" "D53"
-			(at 120.65 140.97 0)
+			(at 212.09 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13838,7 +13838,7 @@
 			)
 		)
 		(property "Value" "Управление реле"
-			(at 120.65 140.97 0)
+			(at 212.09 151.13 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13850,7 +13850,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 120.65 140.97 0)
+			(at 212.09 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13861,7 +13861,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 120.65 140.97 0)
+			(at 212.09 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13872,7 +13872,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 120.65 140.97 0)
+			(at 212.09 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13883,7 +13883,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 120.65 140.97 0)
+			(at 212.09 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13894,7 +13894,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 120.65 140.97 0)
+			(at 212.09 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13905,7 +13905,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 120.65 140.97 0)
+			(at 212.09 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13916,7 +13916,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 120.65 140.97 0)
+			(at 212.09 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13944,7 +13944,7 @@
 	(symbol
 		(lib_name "Label_19")
 		(lib_id "Block_Template:Label")
-		(at 172.72 106.68 0)
+		(at 264.16 116.84 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13954,7 +13954,7 @@
 		(dnp no)
 		(uuid "d951b1f2-ce1f-4ff9-b2eb-b7078d0bcdab")
 		(property "Reference" "D33"
-			(at 172.72 106.68 0)
+			(at 264.16 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13965,7 +13965,7 @@
 			)
 		)
 		(property "Value" "Ток инвертора"
-			(at 172.72 106.68 0)
+			(at 264.16 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13977,7 +13977,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 172.72 106.68 0)
+			(at 264.16 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13988,7 +13988,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 172.72 106.68 0)
+			(at 264.16 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13999,7 +13999,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 172.72 106.68 0)
+			(at 264.16 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14010,7 +14010,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 172.72 106.68 0)
+			(at 264.16 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14021,7 +14021,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 172.72 106.68 0)
+			(at 264.16 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14032,7 +14032,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 172.72 106.68 0)
+			(at 264.16 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14043,7 +14043,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 172.72 106.68 0)
+			(at 264.16 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14071,7 +14071,7 @@
 	(symbol
 		(lib_name "Label_31")
 		(lib_id "Block_Template:Label")
-		(at 115.57 101.6 0)
+		(at 207.01 111.76 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14081,7 +14081,7 @@
 		(dnp no)
 		(uuid "dddafcb8-fe6d-4ef2-b1b0-f62ebd66d8b8")
 		(property "Reference" "D51"
-			(at 115.57 101.6 0)
+			(at 207.01 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14092,7 +14092,7 @@
 			)
 		)
 		(property "Value" "Измеренный ток"
-			(at 115.57 101.6 0)
+			(at 207.01 111.76 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14104,7 +14104,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 115.57 101.6 0)
+			(at 207.01 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14115,7 +14115,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 101.6 0)
+			(at 207.01 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14126,7 +14126,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 115.57 101.6 0)
+			(at 207.01 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14137,7 +14137,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 115.57 101.6 0)
+			(at 207.01 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14148,7 +14148,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 115.57 101.6 0)
+			(at 207.01 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14159,7 +14159,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 115.57 101.6 0)
+			(at 207.01 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14170,7 +14170,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 115.57 101.6 0)
+			(at 207.01 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14197,7 +14197,7 @@
 	)
 	(symbol
 		(lib_id "Block_Template:Arrow")
-		(at 86.36 111.76 0)
+		(at 177.8 121.92 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14208,7 +14208,7 @@
 		(fields_autoplaced yes)
 		(uuid "e1ad5bd1-b183-4847-afc7-5fa559350130")
 		(property "Reference" "D39"
-			(at 86.36 109.474 0)
+			(at 177.8 119.634 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14219,7 +14219,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 86.36 111.76 0)
+			(at 177.8 121.92 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14229,7 +14229,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 86.36 111.76 0)
+			(at 177.8 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14240,7 +14240,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 111.76 0)
+			(at 177.8 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14251,7 +14251,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 86.36 111.76 0)
+			(at 177.8 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14276,7 +14276,7 @@
 	(symbol
 		(lib_name "Block_6")
 		(lib_id "Block_Template:Block")
-		(at 151.13 91.44 0)
+		(at 242.57 101.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14286,7 +14286,7 @@
 		(dnp no)
 		(uuid "e514cba5-329d-4a36-baa4-12a025502c41")
 		(property "Reference" "D7"
-			(at 151.13 89.916 0)
+			(at 242.57 100.076 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14297,7 +14297,7 @@
 			)
 		)
 		(property "Value" "ADuM4135"
-			(at 151.13 89.662 0)
+			(at 242.57 99.822 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14308,7 +14308,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 151.13 91.44 0)
+			(at 242.57 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14319,7 +14319,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 91.44 0)
+			(at 242.57 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14330,7 +14330,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 151.13 91.44 0)
+			(at 242.57 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14341,7 +14341,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 151.13 91.44 0)
+			(at 242.57 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14352,7 +14352,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 151.13 91.44 0)
+			(at 242.57 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14363,7 +14363,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 151.13 91.44 0)
+			(at 242.57 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14374,7 +14374,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 151.13 91.44 0)
+			(at 242.57 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14411,7 +14411,7 @@
 	(symbol
 		(lib_name "Block_7")
 		(lib_id "Block_Template:Block")
-		(at 54.61 104.14 0)
+		(at 146.05 114.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14421,7 +14421,7 @@
 		(dnp no)
 		(uuid "e778ca8c-1058-4404-8bc8-0b40c86849d9")
 		(property "Reference" "D37"
-			(at 54.61 102.616 0)
+			(at 146.05 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14432,7 +14432,7 @@
 			)
 		)
 		(property "Value" "ADuM4135"
-			(at 54.61 102.362 0)
+			(at 146.05 112.522 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14443,7 +14443,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 104.14 0)
+			(at 146.05 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14454,7 +14454,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 104.14 0)
+			(at 146.05 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14465,7 +14465,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 54.61 104.14 0)
+			(at 146.05 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14476,7 +14476,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 54.61 104.14 0)
+			(at 146.05 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14487,7 +14487,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 54.61 104.14 0)
+			(at 146.05 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14498,7 +14498,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 54.61 104.14 0)
+			(at 146.05 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14509,7 +14509,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 54.61 104.14 0)
+			(at 146.05 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14537,7 +14537,7 @@
 	(symbol
 		(lib_name "Label_8")
 		(lib_id "Block_Template:Label")
-		(at 170.18 147.32 0)
+		(at 261.62 157.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14547,7 +14547,7 @@
 		(dnp no)
 		(uuid "f00315a7-8b22-4aa7-a49b-68357d5e3f7e")
 		(property "Reference" "D20"
-			(at 170.18 147.32 0)
+			(at 261.62 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14558,7 +14558,7 @@
 			)
 		)
 		(property "Value" "Реле 3"
-			(at 170.18 147.32 0)
+			(at 261.62 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14570,7 +14570,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 170.18 147.32 0)
+			(at 261.62 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14581,7 +14581,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 147.32 0)
+			(at 261.62 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14592,7 +14592,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 170.18 147.32 0)
+			(at 261.62 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14603,7 +14603,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 170.18 147.32 0)
+			(at 261.62 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14614,7 +14614,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 170.18 147.32 0)
+			(at 261.62 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14625,7 +14625,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 170.18 147.32 0)
+			(at 261.62 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14636,7 +14636,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 170.18 147.32 0)
+			(at 261.62 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14664,7 +14664,7 @@
 	(symbol
 		(lib_name "Label_23")
 		(lib_id "Block_Template:Label")
-		(at 172.72 116.84 0)
+		(at 264.16 127 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14674,7 +14674,7 @@
 		(dnp no)
 		(uuid "f48c8062-0df0-4dc2-b6f6-70cb9a073766")
 		(property "Reference" "D41"
-			(at 172.72 116.84 0)
+			(at 264.16 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14685,7 +14685,7 @@
 			)
 		)
 		(property "Value" "+3.3V iso HV"
-			(at 172.72 116.84 0)
+			(at 264.16 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14697,7 +14697,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 172.72 116.84 0)
+			(at 264.16 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14708,7 +14708,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 172.72 116.84 0)
+			(at 264.16 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14719,7 +14719,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 172.72 116.84 0)
+			(at 264.16 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14730,7 +14730,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 172.72 116.84 0)
+			(at 264.16 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14741,7 +14741,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 172.72 116.84 0)
+			(at 264.16 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14752,7 +14752,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 172.72 116.84 0)
+			(at 264.16 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14763,7 +14763,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 172.72 116.84 0)
+			(at 264.16 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14790,7 +14790,7 @@
 	)
 	(symbol
 		(lib_id "Block_Template:Block")
-		(at 54.61 69.85 0)
+		(at 146.05 80.01 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14801,7 +14801,7 @@
 		(fields_autoplaced yes)
 		(uuid "f4a580ad-5b0a-4234-a2ac-5f9b19766ea2")
 		(property "Reference" "D1"
-			(at 54.61 68.326 0)
+			(at 146.05 78.486 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14812,7 +14812,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 54.61 69.85 0)
+			(at 146.05 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14822,7 +14822,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 69.85 0)
+			(at 146.05 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14833,7 +14833,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 69.85 0)
+			(at 146.05 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14844,7 +14844,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 54.61 69.85 0)
+			(at 146.05 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14855,7 +14855,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 54.61 69.85 0)
+			(at 146.05 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14866,7 +14866,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 54.61 69.85 0)
+			(at 146.05 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14877,7 +14877,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 54.61 69.85 0)
+			(at 146.05 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14888,7 +14888,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 54.61 69.85 0)
+			(at 146.05 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14916,7 +14916,7 @@
 	(symbol
 		(lib_name "Label_5")
 		(lib_id "Block_Template:Label")
-		(at 171.45 57.15 0)
+		(at 262.89 67.31 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14926,7 +14926,7 @@
 		(dnp no)
 		(uuid "f6f08d08-1418-48cb-aa47-71a1fbf0c5df")
 		(property "Reference" "D14"
-			(at 171.45 57.15 0)
+			(at 262.89 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14937,7 +14937,7 @@
 			)
 		)
 		(property "Value" "+5V non iso"
-			(at 171.45 57.15 0)
+			(at 262.89 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14949,7 +14949,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.45 57.15 0)
+			(at 262.89 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14960,7 +14960,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.45 57.15 0)
+			(at 262.89 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14971,7 +14971,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 171.45 57.15 0)
+			(at 262.89 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14982,7 +14982,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 171.45 57.15 0)
+			(at 262.89 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14993,7 +14993,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 171.45 57.15 0)
+			(at 262.89 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15004,7 +15004,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 171.45 57.15 0)
+			(at 262.89 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15015,7 +15015,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 171.45 57.15 0)
+			(at 262.89 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15043,7 +15043,7 @@
 	(symbol
 		(lib_name "Label_29")
 		(lib_id "Block_Template:Label")
-		(at 132.08 96.52 0)
+		(at 223.52 106.68 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15053,7 +15053,7 @@
 		(dnp no)
 		(uuid "f9376d7d-5860-48ae-9c53-3eef1f8977ad")
 		(property "Reference" "D48"
-			(at 132.08 96.52 0)
+			(at 223.52 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15064,7 +15064,7 @@
 			)
 		)
 		(property "Value" "+3.3V iso"
-			(at 132.08 96.52 0)
+			(at 223.52 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15076,7 +15076,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 132.08 96.52 0)
+			(at 223.52 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15087,7 +15087,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 96.52 0)
+			(at 223.52 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15098,7 +15098,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 132.08 96.52 0)
+			(at 223.52 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15109,7 +15109,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 132.08 96.52 0)
+			(at 223.52 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15120,7 +15120,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 132.08 96.52 0)
+			(at 223.52 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15131,7 +15131,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 132.08 96.52 0)
+			(at 223.52 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15142,7 +15142,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 132.08 96.52 0)
+			(at 223.52 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15170,7 +15170,7 @@
 	(symbol
 		(lib_name "Label_26")
 		(lib_id "Block_Template:Label")
-		(at 172.72 95.25 0)
+		(at 264.16 105.41 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15180,7 +15180,7 @@
 		(dnp no)
 		(uuid "fc5dfc26-e70b-4257-b79c-02dd2da16fbf")
 		(property "Reference" "D45"
-			(at 172.72 95.25 0)
+			(at 264.16 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15191,7 +15191,7 @@
 			)
 		)
 		(property "Value" "+/-15V"
-			(at 172.72 95.25 0)
+			(at 264.16 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15203,7 +15203,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 172.72 95.25 0)
+			(at 264.16 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15214,7 +15214,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 172.72 95.25 0)
+			(at 264.16 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15225,7 +15225,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 172.72 95.25 0)
+			(at 264.16 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15236,7 +15236,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 172.72 95.25 0)
+			(at 264.16 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15247,7 +15247,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 172.72 95.25 0)
+			(at 264.16 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15258,7 +15258,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 172.72 95.25 0)
+			(at 264.16 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15269,7 +15269,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 172.72 95.25 0)
+			(at 264.16 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15300,4 +15300,35 @@
 		)
 	)
 	(embedded_fonts no)
+	(embedded_files
+		(file
+			(name "gost_landscape.kicad_wks")
+			(type worksheet)
+			(data |KLUv/WC6IO0nAEYqgjFAc9pUwaAq7rGQvf7J+ej28lrFVi+Ra0Qr0XvBpp0PVIKJocju3inLuMxu
+				WJMBZ+8LfABnAHoALNo2GUZx9Wyv+vGO7GqGEQi0h1NBVbQbu4asUlxtNdu0DUOHHXuz3S4LorjC
+				2E01EGgMV8+VUWw3dfNo1moMH81SFXzgYBtVTc4wznZ5FqxD7VTQq7ccP9gGTKJmWIeqoOVcJzCQ
+				DVVL8SfCVhDFDBBgIzTR1VmonOtDBRi2oWoZrJTd7jX9n7Khe3Oye/9Ms1rmYPfHZufeRc3LSf+n
+				jA0dvmaRc3bwZWv+XePfzun8KCGM/7Cfewzne/kzOnz97xpCdtQnfM1OdoRSwyL6ns9/yCEXdTKt
+				OdMw+9FeW47UoQcp1/Kgs+ReeFeQbod89jhy6K+b4b9sl8309ehUweEadu1UTChOpuuy4U1LLpJO
+				lVtSuhJakbPaCV0eintGDej97uhEuhmOcrWX1TbJb5lclmu6pItyMa5v1WZ1wyIHzIIiICx/hlaE
+				zSDtgyDQGGvlWpxSbsstXdJLQQAB1cP21+/uObTaZWza0c22HZYs36ROMpS0m+FjF6MbeD2fZOgw
+				wZ3rg/x/m2kOFM+HkHnw/SDTPLsg89wrZHil5ZLQ0Wmkp4vQlk4KkREFxB1+PPn90ttfe+myyeUD
+				umO5J3flmlwuU5xO7sejFKfRiSWBbahBUahmpCAFSSHDGnGRwBiC1Z0dskgQgjAUw4AcCGIcAhlC
+				HCFEQAwhhBhjREauHS1W9GqoT2ej9oib6AkUZ1xytemsseM0xpmg8F4VpZ0BeQEinRqXR/LHvcXM
+				zxBtuIUaw8HcSNawPE002iKV23H6UV273ntSIAlTA5N1ZdrndCiVe6uBaRiHYYiKq9GgNrTeNTRf
+				NfUJ/32bWh9/57DHw7uQxz4ULHfFeApmWDLvyo3GHRcRbczSKYx08fXGVh6xzSXRvDpB6BApYY8y
+				6sEbrKBGeegRkrjMrCrrLxeLYxp0HswTCskvDBMXTHE/T+ByeqaPP3qdKzND8/1VD3bUDeJn0Y9z
+				gDZPfEvFjAaAJZpbLUtz3kaxhDe3Snk/4OyFwqFNmJyv7iYuCzQrtB3ykyQKiwBJcw2JxNU32g3/
+				kVAxeFgRdQg12uIi1pyRGPpIH4Xa+rlwJouAD+8zrEHs/Mj95yRfSbzxr/d0A4lRg1eZtAqJQBlT
+				3zHGdrqzkPo5zEAHci6R5WaJ7M8aOMeYTH8ylU/JOjqDbeYB3A/SED8iC0uFsZZlGFxjlGVAmFBW
+				Sg295mriH68MGT6sxAPRzPNjscyiXi6CHelA4On6CGhR0TBQg6X1agUnjA2o+EQ8+EMjOt0EE3O1
+				KZXjk96NgCgPyIEYPya3WbCT53yDvYomiSBeq3cTdXyh8ErjMLtLd9lDpdvsZ53W2mh1ArZ1o9W/
+				pn4MvGAJn4RflojuA5iT3WAhYm7x+ywpKbA6SP8AsvhaPKoyXAVabGD5KqtYRIZHh+1qjSosK7Zk
+				WnUXr26KKLGZ9FmofbXdLWEkLIYWnz6CoHAJ1aETYyMLDNADH7/BUkuXmDcZVyKv/jweRknOlknx
+				InFQ+uGQOpYGNF5vgyfg9IZKup03LTR7DEu7ADGKQmGCR30jTPWNMAURYVmFlx3OQiIuT/p0NIV4
+				k5jbGQYYpblIqpu8oZ6A0nlGAufJ/aGmRk8NeaaILFcB|
+			)
+			(checksum "9180C2D8C133E7F089AA5E43F4962E04")
+		)
+	)
 )

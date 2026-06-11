@@ -534,7 +534,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Docs/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "3D/PDU_Control_Board_V1.2.step",
@@ -644,8 +644,14 @@
         },
         {
           "group_by": false,
-          "label": "Purpose",
-          "name": "Purpose",
+          "label": "Function",
+          "name": "Function",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pin",
+          "name": "Sim.Pin",
           "show": false
         }
       ],
@@ -705,7 +711,7 @@
         "uuid": "7b040528-7065-4d6b-8722-075d9f593d01"
       }
     ],
-    "used_designators": "#PWR148-149",
+    "used_designators": "D13",
     "variants": []
   },
   "sheets": [

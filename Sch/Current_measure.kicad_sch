@@ -4263,18 +4263,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 190.5 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 50V"
 			(at 190.5 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -4602,18 +4591,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 137.16 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 50V"
 			(at 137.16 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -5225,7 +5203,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BC857"
+		(property "Value" ""
 			(at 193.04 113.0299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5284,6 +5262,28 @@
 			)
 		)
 		(property "Sim.Pins" "1=B 2=E 3=C"
+			(at 187.96 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Bipolar P"
+			(at 187.96 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "BC857"
 			(at 187.96 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -5386,17 +5386,6 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 190.5 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Purpose" ""
 			(at 190.5 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -5528,18 +5517,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 125.73 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 50V"
 			(at 125.73 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -5751,7 +5729,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Inductor common mode SMD"
 			(at 125.73 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -6048,18 +6026,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 162.56 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 50V"
 			(at 162.56 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -6531,18 +6498,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 133.35 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 133.35 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -6887,7 +6843,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "UWE1215S-3WR3"
+		(property "Datasheet" ""
 			(at 158.75 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -6909,7 +6865,7 @@
 				)
 			)
 		)
-		(property "Product Name" ""
+		(property "Product Name" "UWE1215S-3WR3"
 			(at 158.75 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -6920,7 +6876,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "DC/DC"
 			(at 158.75 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -7197,18 +7153,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 109.22 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 109.22 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -7417,18 +7362,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 184.15 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 184.15 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -7546,18 +7480,7 @@
 				)
 			)
 		)
-		(property "Purpose" ""
-			(at 142.24 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 142.24 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -7619,7 +7542,7 @@
 				)
 			)
 		)
-		(property "Value" "OPA333xxDBV"
+		(property "Value" ""
 			(at 160.02 108.966 0)
 			(hide yes)
 			(show_name no)
@@ -7664,7 +7587,7 @@
 				)
 			)
 		)
-		(property "Product Name" ""
+		(property "Product Name" "OPA333xxDBV"
 			(at 157.48 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -7675,7 +7598,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Op-Amp"
 			(at 157.48 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -7840,7 +7763,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BC847"
+		(property "Value" ""
 			(at 193.04 97.7899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7899,6 +7822,28 @@
 			)
 		)
 		(property "Sim.Pins" "1=B 2=E 3=C"
+			(at 187.96 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Bipolar N"
+			(at 187.96 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "BC847"
 			(at 187.96 96.52 0)
 			(hide yes)
 			(show_name no)
