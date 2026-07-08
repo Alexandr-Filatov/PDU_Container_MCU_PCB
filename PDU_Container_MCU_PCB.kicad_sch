@@ -14102,6 +14102,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "CAN Transiever"
+			(at 368.3 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "8af4f271-b860-453f-97a0-5e8c7a25e41c")
 		)
@@ -14375,7 +14386,7 @@
 				)
 			)
 		)
-		(property "Product Name" "FYLS-0603UBC"
+		(property "Product Name" "FYLS-0805UBC"
 			(at 97.79 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -14895,7 +14906,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 88.9 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -15868,7 +15879,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 110.49 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -16186,7 +16197,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 388.62 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -16245,7 +16256,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "750"
+		(property "Value" "1k"
 			(at 261.62 335.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16300,7 +16311,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 260.35 336.55 0)
 			(hide yes)
 			(show_name no)
@@ -16565,7 +16576,7 @@
 				)
 			)
 		)
-		(property "Product Name" "USBLC6-2P6"
+		(property "Product Name" "USBLC6-2SC6"
 			(at 185.42 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -16768,7 +16779,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 388.62 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -17739,7 +17750,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 295.91 340.36 0)
 			(hide yes)
 			(show_name no)
@@ -18264,7 +18275,7 @@
 				)
 			)
 		)
-		(property "Product Name" "FYLS-0603UBC"
+		(property "Product Name" "FYLS-0805UBC"
 			(at 88.9 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -19853,7 +19864,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 295.91 327.66 0)
 			(hide yes)
 			(show_name no)
@@ -22184,7 +22195,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 97.79 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -22488,7 +22499,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 195.58 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -23406,7 +23417,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 78.74 289.56 0)
 			(hide yes)
 			(show_name no)
@@ -24099,7 +24110,7 @@
 				)
 			)
 		)
-		(property "Product Name" "OPA333xxDBV"
+		(property "Product Name" "OPA333"
 			(at 322.58 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -24356,7 +24367,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 124.46 297.18 0)
 			(hide yes)
 			(show_name no)
@@ -24624,7 +24635,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 88.9 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -24683,7 +24694,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "750"
+		(property "Value" "1k"
 			(at 278.13 295.91 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24738,7 +24749,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 276.86 297.18 0)
 			(hide yes)
 			(show_name no)
@@ -24874,7 +24885,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1.1k"
+		(property "Value" "1k"
 			(at 225.425 295.91 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24929,7 +24940,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 224.155 297.18 0)
 			(hide yes)
 			(show_name no)
@@ -25647,7 +25658,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 346.964 95.758 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26410,7 +26421,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 195.58 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -26639,7 +26650,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 85.09 298.45 0)
 			(hide yes)
 			(show_name no)

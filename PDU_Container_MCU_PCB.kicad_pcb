@@ -843,7 +843,7 @@
 				)
 			)
 		)
-		(property "Product Name" "OPA333xxDBV"
+		(property "Product Name" "OPA333"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1268,7 +1268,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3857,7 +3857,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4105,7 +4105,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4619,7 +4619,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5665,7 +5665,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 0.1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6371,7 +6371,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6617,7 +6617,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7286,7 +7286,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8037,7 +8037,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9431,7 +9431,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 0.1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9632,7 +9632,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9865,7 +9865,7 @@
 				)
 			)
 		)
-		(property "Product Name" "OPA333xxDBV"
+		(property "Product Name" "OPA333"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10290,7 +10290,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11245,7 +11245,7 @@
 				)
 			)
 		)
-		(property "Product Name" "OPA333xxDBV"
+		(property "Product Name" "OPA333"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11670,7 +11670,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11903,7 +11903,7 @@
 				)
 			)
 		)
-		(property "Product Name" "OPA333xxDBV"
+		(property "Product Name" "OPA333"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13036,7 +13036,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13282,7 +13282,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14343,7 +14343,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14801,7 +14801,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15047,7 +15047,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16047,7 +16047,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16293,7 +16293,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17906,7 +17906,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18371,7 +18371,7 @@
 				)
 			)
 		)
-		(property "Value" "49.9"
+		(property "Value" "120"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -18422,7 +18422,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18668,7 +18668,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18865,7 +18865,7 @@
 				)
 			)
 		)
-		(property "Value" "49.9"
+		(property "Value" "120"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -18916,7 +18916,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19848,7 +19848,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23066,7 +23066,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23263,7 +23263,7 @@
 				)
 			)
 		)
-		(property "Value" "0.27u"
+		(property "Value" "220n"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -24602,7 +24602,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26100,7 +26100,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30952,7 +30952,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31694,7 +31694,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33002,7 +33002,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33761,7 +33761,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34007,7 +34007,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36176,7 +36176,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36422,7 +36422,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36653,7 +36653,7 @@
 				)
 			)
 		)
-		(property "Product Name" "OPA333xxDBV"
+		(property "Product Name" "OPA333"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37112,7 +37112,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37950,7 +37950,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -39985,7 +39985,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -41712,7 +41712,7 @@
 				)
 			)
 		)
-		(property "Value" "49.9"
+		(property "Value" "120"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -41763,7 +41763,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -42336,7 +42336,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -42582,7 +42582,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -42828,7 +42828,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -43181,7 +43181,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -43427,7 +43427,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45909,7 +45909,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -46578,7 +46578,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -48573,7 +48573,7 @@
 				)
 			)
 		)
-		(property "Product Name" "FYLS-0603UBC"
+		(property "Product Name" "FYLS-0805UBC"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -50022,7 +50022,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -50266,7 +50266,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -50653,7 +50653,7 @@
 				)
 			)
 		)
-		(property "Value" "0.27u"
+		(property "Value" "220n"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -53470,7 +53470,7 @@
 				)
 			)
 		)
-		(property "Product Name" "OPA333xxDBV"
+		(property "Product Name" "OPA333"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -54143,7 +54143,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -54389,7 +54389,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -54905,7 +54905,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55136,7 +55136,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55591,7 +55591,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55839,7 +55839,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -56508,7 +56508,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -56754,7 +56754,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -56951,7 +56951,7 @@
 				)
 			)
 		)
-		(property "Value" "0.27u"
+		(property "Value" "220n"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -57259,7 +57259,7 @@
 				)
 			)
 		)
-		(property "Product Name" "FYLS-0603UBC"
+		(property "Product Name" "FYLS-0805UBC"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -58458,7 +58458,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -58704,7 +58704,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -59194,7 +59194,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -59686,7 +59686,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -61000,7 +61000,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -61246,7 +61246,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -61856,7 +61856,7 @@
 				)
 			)
 		)
-		(property "Product Name" "USBLC6-2P6"
+		(property "Product Name" "USBLC6-2SC6"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -62248,7 +62248,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -63008,7 +63008,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -63508,7 +63508,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -64274,7 +64274,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -64520,7 +64520,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -65261,6 +65261,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f479dfba-9685-45cc-8228-4aa63fb917a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description P/N" "CAN Transiever"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bae06aa0-7f83-4160-a4b4-7f8bcf6c1aed")
 			(effects
 				(font
 					(size 1 1)
@@ -66135,7 +66148,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -67040,7 +67053,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -67286,7 +67299,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -67534,7 +67547,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -67780,7 +67793,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -68026,7 +68039,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -68867,7 +68880,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -69250,7 +69263,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "750"
+		(property "Value" "1k"
 			(at 0 -1.65 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -69305,7 +69318,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -70666,7 +70679,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -71368,7 +71381,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -71562,7 +71575,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -72061,7 +72074,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1.1k"
+		(property "Value" "1k"
 			(at 0 -1.65 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -72114,7 +72127,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -72560,7 +72573,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -73165,7 +73178,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 0 -1.68 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -74068,7 +74081,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -74709,7 +74722,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -75173,7 +75186,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -75885,7 +75898,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 0 -1.68 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -77073,7 +77086,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 0 -1.68 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -77378,7 +77391,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -79162,7 +79175,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -79370,7 +79383,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -79781,7 +79794,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "750"
+		(property "Value" "1k"
 			(at 0 -1.65 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -79834,7 +79847,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -80035,7 +80048,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 0 -1.68 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -80764,7 +80777,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -81862,7 +81875,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -82020,7 +82033,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 0 -1.85 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -83146,7 +83159,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 0 -1.68 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -83451,7 +83464,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -83645,7 +83658,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -84494,7 +84507,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 0 -1.68 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -85313,7 +85326,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -85705,7 +85718,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")

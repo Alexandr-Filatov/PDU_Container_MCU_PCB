@@ -6498,7 +6498,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 133.35 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -7153,7 +7153,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 0.1%"
 			(at 109.22 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -7362,7 +7362,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 184.15 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -7480,7 +7480,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 142.24 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -7587,7 +7587,7 @@
 				)
 			)
 		)
-		(property "Product Name" "OPA333xxDBV"
+		(property "Product Name" "OPA333"
 			(at 157.48 104.14 0)
 			(hide yes)
 			(show_name no)
